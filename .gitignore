@@ -1,0 +1,18 @@
+**/.ipynb_checkpoints
+**/__pycache__
+.ipynb_checkpoints
+**/*-ignore
+**/*.log
+**/*.lock
+**/*.grib
+**/*.csv
+**/*.zip
+**/*.pkl
+*/output/*
+!*/output/.gitkeep
+builds/
+db.conf
+/config.py
+output/*.sql
+config/db copy.conf
+config/db.conf
