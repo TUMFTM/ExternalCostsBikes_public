@@ -13,9 +13,9 @@ class InputServiceFailure:
         self.annual_mileage_Munich_shared_pedelec = 299626.408 # Source: database extrapolated for all shared pedelecs in Munich
 
         # Total usage times
-        self.usage_time_private_bicycle = 0 # no service privided
+        self.usage_time_private_bicycle = 0 # no service provided
         self.usage_time_shared_bicycle = 435366.42 # Source: database extrapolated for all shared bicycles in Munich
-        self.usage_time_private_pedelec = 0 # no service privided
+        self.usage_time_private_pedelec = 0 # no service provided
         self.usage_time_shared_pedelec = 31367.82 # Source: database extrapolated for all shared pedelecs in Munich
 
         # Service failure factors
