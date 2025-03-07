@@ -1,5 +1,5 @@
 # Reducing health and economic burdens of bicycle collision costs through dedicated cycling infrastructure: a city-wide safety and mobility analysis
-**Author:**  Anna Paper
+**Authors:**  Anna Paper, Felix Waldner and Stefanie Ruf
 
 ## Introduction
 
